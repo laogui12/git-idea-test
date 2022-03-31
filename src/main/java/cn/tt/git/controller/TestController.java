@@ -4,5 +4,6 @@ public class TestController {
         public static void main(){
             System.out.println("hello git");
             System.out.println("dev");
+            System.out.println("test");
         }
 }
